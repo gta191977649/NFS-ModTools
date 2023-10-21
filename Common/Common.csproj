@@ -7,7 +7,5 @@
     <Configurations>Debug;Release</Configurations>
     <Platforms>AnyCPU</Platforms>
   </PropertyGroup>
-  <ItemGroup>
-    <PackageReference Include="NFSTools.CompLib" Version="1.0.0" />
-  </ItemGroup>
+ 
 </Project>
